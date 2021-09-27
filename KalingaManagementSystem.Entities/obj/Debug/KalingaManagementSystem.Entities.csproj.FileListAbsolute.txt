@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.Entities\bin\Debug\KalingaManagementSystem.Entities.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.Entities\bin\Debug\KalingaManagementSystem.Entities.pdb
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.Entities\obj\Debug\KalingaManagementSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.Entities\obj\Debug\KalingaManagementSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.Entities\obj\Debug\KalingaManagementSystem.Entities.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.Entities\obj\Debug\KalingaManagementSystem.Entities.pdb

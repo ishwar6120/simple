@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\bin\Debug\KalingaManagementSystem.BusinessLogicLayer.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\bin\Debug\KalingaManagementSystem.BusinessLogicLayer.pdb
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\bin\Debug\KalingaManagementSystem.CustomExceptions.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\bin\Debug\KalingaManagementSystem.DataAccessLayer.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\bin\Debug\KalingaManagementSystem.Entities.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\bin\Debug\KalingaManagementSystem.CustomExceptions.pdb
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\bin\Debug\KalingaManagementSystem.DataAccessLayer.pdb
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\bin\Debug\KalingaManagementSystem.Entities.pdb
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\obj\Debug\KalingaManagementSystem.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\obj\Debug\KalingaManagementSystem.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\obj\Debug\KalingaManagementSystem.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\obj\Debug\KalingaManagementSystem.BusinessLogicLayer.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.BusinessLogicLayer\obj\Debug\KalingaManagementSystem.BusinessLogicLayer.pdb

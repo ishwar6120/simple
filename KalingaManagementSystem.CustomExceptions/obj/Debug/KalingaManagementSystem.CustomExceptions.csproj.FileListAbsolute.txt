@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.CustomExceptions\bin\Debug\KalingaManagementSystem.CustomExceptions.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.CustomExceptions\bin\Debug\KalingaManagementSystem.CustomExceptions.pdb
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.CustomExceptions\obj\Debug\KalingaManagementSystem.CustomExceptions.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.CustomExceptions\obj\Debug\KalingaManagementSystem.CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.CustomExceptions\obj\Debug\KalingaManagementSystem.CustomExceptions.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.CustomExceptions\obj\Debug\KalingaManagementSystem.CustomExceptions.pdb

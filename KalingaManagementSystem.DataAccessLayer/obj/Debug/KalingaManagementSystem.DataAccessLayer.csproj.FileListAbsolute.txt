@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\bin\Debug\KalingaManagementSystem.DataAccessLayer.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\bin\Debug\KalingaManagementSystem.DataAccessLayer.pdb
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\bin\Debug\KalingaManagementSystem.CustomExceptions.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\bin\Debug\KalingaManagementSystem.Entities.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\bin\Debug\KalingaManagementSystem.CustomExceptions.pdb
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\bin\Debug\KalingaManagementSystem.Entities.pdb
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\obj\Debug\KalingaManagementSystem.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\obj\Debug\KalingaManagementSystem.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\obj\Debug\KalingaManagementSystem.DataAccessLayer.csproj.CopyComplete
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\obj\Debug\KalingaManagementSystem.DataAccessLayer.dll
+C:\Users\HP\source\repos\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\obj\Debug\KalingaManagementSystem.DataAccessLayer.pdb
+C:\Users\AAIDADA\Desktop\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\obj\Debug\KalingaManagementSystem.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\AAIDADA\Desktop\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\obj\Debug\KalingaManagementSystem.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\AAIDADA\Desktop\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\obj\Debug\KalingaManagementSystem.DataAccessLayer.dll
+C:\Users\AAIDADA\Desktop\KalingaManagementSystem\KalingaManagementSystem.DataAccessLayer\obj\Debug\KalingaManagementSystem.DataAccessLayer.pdb
